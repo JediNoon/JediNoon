@@ -36,15 +36,7 @@ My cybersecurity homelab setup using Proxmox and pfSense with virtual machines.
 
 - [LinkedIn](https://linkedin.com/in/shaun-noonan)
 - [TryHackMe Profile](https://tryhackme.com/p/shaun.noonan)
-- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4524124" style='border:none;'></iframe>
 - Email: shaunpatricknoonan@gmail.com
-
----
-
-## 📈 GitHub Stats (optional)
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?JediNoon=JediNoon&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?JediNoon=JediNoon&layout=compact&theme=radical)
 
 ---
 
