@@ -28,7 +28,7 @@ Walkthroughs of TryHackMe, Hack The Box, and other CTF challenges.
 Practice analyzing vulnerabilities, using CVSS, and documenting remediation strategies.
 
 ### 🧪 [homelab-notes](https://github.com/JediNoon/homelab-notes)
-My cybersecurity homelab setup using Proxmox and pfSense with virtual machines.
+My cybersecurity homelab setup using Proxmox and TailScale with virtual machines.
 
 ---
 
