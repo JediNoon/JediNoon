@@ -216,5 +216,3 @@ With this setup:
 - **Remote Access** → Tailscale only, zero public exposure.  
 
 ---
-
-📂 Save this file as **`HARDENING_GUIDE.md`** in your Proxmox Lab GitHub repo.
