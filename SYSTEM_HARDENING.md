@@ -129,5 +129,3 @@ sudo systemctl disable --now avahi-daemon.service cups.service || true
 - [ ] Document recovery & rollback procedures.  
 
 ---
-
-📌 Save this file as `SYSTEM_HARDENING.md` in your GitHub repo under `/docs/`.
