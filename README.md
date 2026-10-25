@@ -22,7 +22,7 @@ These are tools and areas I’m learning and exploring. Individual projects will
 
 🚧 Projects
 
-HomeOps — Home Operations Toolkit
+[HomeOps — Home Operations Toolkit](https://github.com/JediNoon/HomeOps)
 
 Status: In development
 
