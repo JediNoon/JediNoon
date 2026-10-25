@@ -1,6 +1,6 @@
 Hi, I’m Shaun 👋
 
-Aspiring Cybersecurity Professional | Blue Team Enthusiast
+Aspiring Cybersecurity Professional | Vulnerability Management, SOC Analysis & Blue Team
 
 I’m building practical skills in cybersecurity, vulnerability management, security monitoring, and secure infrastructure operations. My goal is to turn hands-on learning into documented, repeatable work that demonstrates how I investigate problems, assess risk, and improve system reliability.
 
@@ -18,40 +18,51 @@ I’m building practical skills in cybersecurity, vulnerability management, secu
 * Infrastructure: Linux, Proxmox, Tailscale
 * Engineering: Automation, troubleshooting, documentation, recovery planning
 
-These are tools and areas I’m learning and exploring; individual projects will document my practical work and results.
+These are tools and areas I’m learning and exploring. Individual projects will document my practical work and results.
 
 🚧 Projects
 
-HomeOps — In Development
+HomeOps — Home Operations Toolkit
 
-A home infrastructure operations project focused on making self-hosted systems easier to monitor, maintain, and recover.
+Status: In development
 
-Project goals:
+HomeOps explores how to make self-hosted infrastructure easier to monitor, maintain, and recover—without turning home lab management into a second job.
+
+Project goals include:
 
 * Clear system health reporting and meaningful alerts
 * Repeatable maintenance and recovery procedures
 * Safer automation with human approval for significant changes
 * Private remote administration and security-conscious design
+* Practical documentation focused on reliability and recoverability
 
-The long-term goal is a practical, low-maintenance operations toolkit built around reliability, observability, and recoverability.
-
-The public project will contain selected, sanitized documentation and reusable tools. Private infrastructure details and operational records will remain private.
+The public repository will contain selected, sanitized documentation and reusable tools. Private infrastructure details and operational records will remain private.
 
 Cybersecurity Portfolio — Building
 
-I’m developing hands-on case studies and practical documentation covering vulnerability assessment, security monitoring, and investigation workflows. Projects will be added here as they contain meaningful, reviewable work.
+I’m developing practical case studies and documentation covering vulnerability assessment, security monitoring, and investigation workflows. Projects will be published here as they become substantive, documented, and ready for review.
 
-Learning & Community
+Open-Source Learning
 
-I also use GitHub to explore useful open-source projects and learning resources. Forked repositories remain attributed to their original authors.
+I use GitHub to explore open-source projects, technical tools, and cybersecurity learning resources. Forked repositories remain attributed to their original authors.
 
 🎓 Training
 
 Completed a cybersecurity apprenticeship with RapidAscent.
+
+🔐 My Approach
+
+* Learn by doing and document the results.
+* Prioritize security, reliability, and repeatable processes.
+* Distinguish verified findings from assumptions.
+* Make changes deliberately and verify outcomes.
+* Protect private infrastructure and sensitive operational details.
 
 📫 Connect
 
 * GitHub
 * LinkedIn
 
-I’m working toward a career in cybersecurity by combining hands-on learning with careful documentation, practical problem-solving, and a focus on secure and reliable systems.Learning one packet at a time.
+I’m working toward a career in cybersecurity by combining hands-on learning, practical problem-solving, and a commitment to secure and reliable systems.
+
+Learning one packet at a time.
