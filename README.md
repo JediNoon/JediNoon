@@ -1,59 +1,57 @@
-👋 Hi, I’m Shaun
+Hi, I’m Shaun 👋
 
-🎯 Aspiring Cybersecurity Professional | Blue Team Enthusiast
+Aspiring Cybersecurity Professional | Blue Team Enthusiast
 
-I’m building practical cybersecurity skills through hands-on labs, vulnerability assessment, security monitoring, and homelab projects.
+I’m building practical skills in cybersecurity, vulnerability management, security monitoring, and secure infrastructure operations. My goal is to turn hands-on learning into documented, repeatable work that demonstrates how I investigate problems, assess risk, and improve system reliability.
 
-* 🔐 Focus: Vulnerability Management, SOC Analysis, Threat Detection
-* 🎓 Training: Completed the cybersecurity apprenticeship at RapidAscent
-* 🛡️ Security tools: Nmap, Wireshark, Burp Suite, Metasploit
-* 📊 Monitoring & analysis: Splunk, Wazuh, CVSS-based vulnerability assessment
-* 🖥️ Infrastructure: Linux, Proxmox, Tailscale, and secure remote administration
-* ⚙️ Engineering interests: Automation, system reliability, documentation, and recovery planning
+🎯 Focus Areas
 
-🚀 Projects & Learning
+* Vulnerability Management: Assessing findings, understanding CVSS severity, and documenting remediation.
+* Security Operations: Exploring monitoring, event analysis, threat detection, and investigation workflows.
+* Linux & Infrastructure: System administration, secure remote access, automation, and service reliability.
+* Documentation & Recovery: Building repeatable procedures, verification checks, and operational runbooks.
 
-🔍 Security Labs
+🧰 Technologies & Tools
 
-cybersecurity-labs
+* Security: Nmap, Wireshark, Burp Suite, Metasploit
+* Monitoring & Assessment: Wazuh, Splunk, CVSS-based vulnerability assessment
+* Infrastructure: Linux, Proxmox, Tailscale
+* Engineering: Automation, troubleshooting, documentation, recovery planning
 
-Hands-on notes, exercises, and experiments with cybersecurity tools and techniques.
+These are tools and areas I’m learning and exploring; individual projects will document my practical work and results.
 
-🎯 Vulnerability Management
+🚧 Projects
 
-vulnerability-management-practice
+HomeOps — In Development
 
-Practice assessing vulnerabilities, interpreting CVSS scores, prioritizing remediation, and documenting findings.
+A home infrastructure operations project focused on making self-hosted systems easier to monitor, maintain, and recover.
 
-🧪 CTF Write-ups
+Project goals:
 
-ctf-writeups
+* Clear system health reporting and meaningful alerts
+* Repeatable maintenance and recovery procedures
+* Safer automation with human approval for significant changes
+* Private remote administration and security-conscious design
 
-Learning notes and walkthroughs from authorized Capture the Flag (CTF) challenges and cybersecurity training environments.
+The long-term goal is a practical, low-maintenance operations toolkit built around reliability, observability, and recoverability.
 
-🖥️ Homelab & Infrastructure
+The public project will contain selected, sanitized documentation and reusable tools. Private infrastructure details and operational records will remain private.
 
-Private project: homelab-notes
+Cybersecurity Portfolio — Building
 
-Developing my understanding of virtualization, Linux systems, network security, and remote administration through homelab work.
+I’m developing hands-on case studies and practical documentation covering vulnerability assessment, security monitoring, and investigation workflows. Projects will be added here as they contain meaningful, reviewable work.
 
-🏠 HomeOps — In Development
+Learning & Community
 
-Exploring a security-conscious approach to home infrastructure operations, emphasizing human-approved changes, monitoring, automation, documentation, and recoverability.
+I also use GitHub to explore useful open-source projects and learning resources. Forked repositories remain attributed to their original authors.
 
-Public project materials will be published separately after security and privacy review.
+🎓 Training
 
-🧭 My Approach
-
-* 🔎 Inspect and understand before changing.
-* 🔒 Apply least privilege and minimize unnecessary exposure.
-* ✅ Verify results rather than assume a change worked.
-* ♻️ Prefer reversible changes and documented recovery procedures.
-* 📚 Document what I learn so experiments become repeatable knowledge.
+Completed a cybersecurity apprenticeship with RapidAscent.
 
 📫 Connect
 
-* 💼 LinkedIn
-* 🧑‍💻 GitHub — JediNoon
+* GitHub
+* LinkedIn
 
-Learning one packet at a time.
+I’m working toward a career in cybersecurity by combining hands-on learning with careful documentation, practical problem-solving, and a focus on secure and reliable systems.Learning one packet at a time.
