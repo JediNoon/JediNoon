@@ -1,43 +1,59 @@
-# 👋 Hi, I'm Shaun
+👋 Hi, I’m Shaun
 
-🎯 Aspiring Cybersecurity Professional | Blue Team Enthusiast  
-🔐 Focus: Vulnerability Management • SOC Analysis • Threat Detection  
-🎓 Cybersecurity Apprentice @ RapidAscent  
-📍 Based in Pounding Mill, VA | Open to Entry-Level Opportunities
+🎯 Aspiring Cybersecurity Professional | Blue Team Enthusiast
 
----
+I’m building practical cybersecurity skills through hands-on labs, vulnerability assessment, security monitoring, and homelab projects.
 
-## 🚀 Current Learning
+* 🔐 Focus: Vulnerability Management, SOC Analysis, Threat Detection
+* 🎓 Training: Completed the cybersecurity apprenticeship at RapidAscent
+* 🛡️ Security tools: Nmap, Wireshark, Burp Suite, Metasploit
+* 📊 Monitoring & analysis: Splunk, Wazuh, CVSS-based vulnerability assessment
+* 🖥️ Infrastructure: Linux, Proxmox, Tailscale, and secure remote administration
+* ⚙️ Engineering interests: Automation, system reliability, documentation, and recovery planning
 
-- 🔍 Vulnerability Scanning & CVSS Scoring
-- 📊 SIEM Tools (Splunk, Wazuh)
-- 🧰 Tools: Nmap, Wireshark, Burp Suite, Metasploit
-- 🖥️ Homelab setup (Kali Linux, pfSense, Proxmox)
+🚀 Projects & Learning
 
----
+🔍 Security Labs
 
-## 🛠️ Projects & Labs
+cybersecurity-labs
 
-### 🔐 [cybersecurity-labs](https://github.com/JediNoon/cybersecurity-labs)
-Hands-on notes, scans, and exercises covering tools like Nmap, Wireshark, and Metasploit.
+Hands-on notes, exercises, and experiments with cybersecurity tools and techniques.
 
-### 🎯 [ctf-writeups](https://github.com/JediNoon/ctf-writeups)
-Walkthroughs of TryHackMe, Hack The Box, and other CTF challenges.
+🎯 Vulnerability Management
 
-### 📁 [vulnerability-management-practice](https://github.com/JediNoon/vulnerability-management-practice)
-Practice analyzing vulnerabilities, using CVSS, and documenting remediation strategies.
+vulnerability-management-practice
 
-### 🧪 [homelab-notes](https://github.com/JediNoon/homelab-notes)
-My cybersecurity homelab setup using Proxmox and TailScale with virtual machines.
+Practice assessing vulnerabilities, interpreting CVSS scores, prioritizing remediation, and documenting findings.
 
----
+🧪 CTF Write-ups
 
-## 📫 Let’s Connect
+ctf-writeups
 
-- [LinkedIn](https://linkedin.com/in/shaun-noonan)
-- [TryHackMe Profile](https://tryhackme.com/p/shaun.noonan)
-- Email: shaunpatricknoonan@gmail.com
+Learning notes and walkthroughs from authorized Capture the Flag (CTF) challenges and cybersecurity training environments.
 
----
+🖥️ Homelab & Infrastructure
 
-_“Learning one packet at a time...”_
+Private project: homelab-notes
+
+Developing my understanding of virtualization, Linux systems, network security, and remote administration through homelab work.
+
+🏠 HomeOps — In Development
+
+Exploring a security-conscious approach to home infrastructure operations, emphasizing human-approved changes, monitoring, automation, documentation, and recoverability.
+
+Public project materials will be published separately after security and privacy review.
+
+🧭 My Approach
+
+* 🔎 Inspect and understand before changing.
+* 🔒 Apply least privilege and minimize unnecessary exposure.
+* ✅ Verify results rather than assume a change worked.
+* ♻️ Prefer reversible changes and documented recovery procedures.
+* 📚 Document what I learn so experiments become repeatable knowledge.
+
+📫 Connect
+
+* 💼 LinkedIn
+* 🧑‍💻 GitHub — JediNoon
+
+Learning one packet at a time.
